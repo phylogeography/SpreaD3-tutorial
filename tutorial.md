@@ -4,8 +4,6 @@ title: Tutorial
 permalink: /tutorial/
 ---
 
-# Tutorial
-
 **Authors**
 
 Filip Bielejec
