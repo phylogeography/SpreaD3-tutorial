@@ -1,7 +1,4 @@
----
-layout: post
-title: Tutorial
----
+# Tutorial
 
 **Authors**
 
